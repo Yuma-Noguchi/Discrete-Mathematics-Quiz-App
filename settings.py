@@ -1,0 +1,14 @@
+from enum import Enum
+
+CANVAS_WIDTH = 1000
+CANVAS_HEIGHT = 700
+#for main menu
+BUTTON_WIDTH = 400
+BUTTON_HEIGHT = 75
+#for normal mode
+LABLE_WIDTH = 200
+LABLE_HEIGHT = 75
+BLANK = 40
+
+GRID_SIZE = 40
+LOG_HEIGHT = 30
